@@ -48,6 +48,12 @@ h1 {
     font-size: medium;
     
 }
+.date {
+    font-size: smaller;
+}
+
+    
+
 
 /* Medium heading size with gray color for section headers */
 h3 {
