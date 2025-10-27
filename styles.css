@@ -27,6 +27,9 @@ html {
     font-size: 16px;
 }
 
+p {font-size: large;
+}
+
 /* Make all images responsive - they scale down to fit their container */
 img {
     width: 100%;
@@ -48,7 +51,7 @@ h1 {
 
 /* Medium heading size with gray color for section headers */
 h3 {
-    font-size: 1.75em;
+    font-size: 1.5em;
     color:grey;
 }
 
@@ -67,8 +70,8 @@ h3 {
 /* Set readable line spacing and font size for body text and captions */
 figcaption,
 p {
-    line-height: 1.5em;
-    font-size: 1.2em;
+    line-height: 1.2;
+    font-size: 0.5;
 }
 
 /* Style horizontal rules as thick gray bars */
